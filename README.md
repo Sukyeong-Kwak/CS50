@@ -6,8 +6,8 @@
 ### [알고리즘 기초](Algorithm.md)
  - 자료구조 및 알고리즘 기초
 
-### [프로그래밍 응용]
+### [프로그래밍 응용](Programming.md)
 
-### [인터넷과 네트워크]
+### [인터넷과 네트워크](Internet&Network.md)
 
-### [웹 프로그래밍]
+### [웹 프로그래밍](WebProgramming.md)
