@@ -3,5 +3,5 @@
 ### [1. 컴퓨터와 컴퓨팅](Computer&Computing.md)
  - 컴퓨터 기초 지식
 
-### [2.알고리즘 기초](Algorithm.md)
+### [2. 알고리즘 기초](Algorithm.md)
  - 자료구조 및 알고리즘 기초
