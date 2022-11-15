@@ -29,6 +29,9 @@
   - 16비트 8자리로 이루어짐
   
 ## [라우터](https://www.edwith.org/cs50/lecture/22875?isDesc=false)
+- 라우팅: 어떤 네트워크 안에서 통신 데이터를 보낼 경로를 선택하는 과정
+- 교착상태: 두 개 이상의 작업이 서로 상대방의 작업이 끝나기를 기다려 결과적으로 아무것도 완료되지 못하는 상태
+- TCP: IP와 함께 쓰이는 기술, 데이터가 잘 전송될 확률을 높여줌
 
 ## [TCP와 IP](https://www.edwith.org/cs50/lecture/22877?isDesc=false)
 
